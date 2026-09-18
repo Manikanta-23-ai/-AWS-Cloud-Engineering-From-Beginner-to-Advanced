@@ -1,7 +1,5 @@
 # -AWS-Cloud-Engineering-From-Beginner-to-Advanced
 ☁️ A complete AWS Cloud Engineering roadmap from beginner to advanced, covering Cloud Fundamentals, IAM, VPC, EC2, S3, CloudFront, Load Balancers, Auto Scaling, CloudWatch, RDS, DynamoDB, Lambda, API Gateway, SQS, SNS, Docker, ECS, ECR, CloudFormation, CI/CD, and real-world AWS projects. 🚀
-# ☁️ AWS Cloud Engineering — From Basics to Advanced
-
 ### 🚀 A Practical Journey from Cloud Fundamentals to Production-Ready AWS Architecture
 
 > **Learn AWS → Build Real Systems → Automate Infrastructure → Deploy Applications → Design for Production**
